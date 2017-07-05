@@ -20,6 +20,7 @@ dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 description = "Fabian's Blog"
 copyright = "Copyright © 2017 Fabian Wendlandt"
 logofile = "img/blog.png"
+latestpostcount = 5
 faviconfile = "img/blog.png"
 highlightjs = true
 progressively = true
