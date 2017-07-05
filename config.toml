@@ -1,0 +1,30 @@
+baseurl = "https://192.168.0.134/"
+theme = "cocoa-eh"
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Fabian Wendlandt"
+title = "Fabian's Blog"
+disqusshortname = ""
+pluralizelisttitles = false
+
+[permalinks]
+blog = "blog/:slug/"
+
+[params]
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "Fabian's Blog"
+copyright = "Copyright © 2017 Fabian Wendlandt"
+logofile = "img/blog.png"
+faviconfile = "img/blog.png"
+highlightjs = true
+progressively = true
+lang = "en"
+github = "watschi"
+email = "fabian-wendlandt@gmx.de"
+social_banner = "img/Foto.jpg"
+posts_navigation = true
