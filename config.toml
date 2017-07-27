@@ -8,7 +8,7 @@ layoutdir = "layouts"
 publishdir = "public"
 author = "Fabian Wendlandt"
 title = "Fabian's Blog"
-disqusshortname = ""
+disqusshortname = "watschi"
 pluralizelisttitles = false
 
 [permalinks]
@@ -29,3 +29,4 @@ github = "watschi"
 email = "fabian-wendlandt@gmx.de"
 social_banner = "img/Foto.jpg"
 posts_navigation = true
+share = true
