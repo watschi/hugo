@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Fabian&#39;s Blog</title>
-    <link>https://192.168.0.134/blog/</link>
+    <link>https://blog.fwendlandt.net/blog/</link>
     <description>Recent content in Blog on Fabian&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2017 Fabian Wendlandt</copyright>
     <lastBuildDate>Thu, 27 Jul 2017 01:09:42 +0200</lastBuildDate>
     
-	<atom:link href="https://192.168.0.134/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.fwendlandt.net/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PowerShell - Dynamic Parameters</title>
-      <link>https://192.168.0.134/blog/powershell---dynamic-parameters/</link>
+      <link>https://blog.fwendlandt.net/blog/powershell---dynamic-parameters/</link>
       <pubDate>Thu, 27 Jul 2017 01:09:42 +0200</pubDate>
       
-      <guid>https://192.168.0.134/blog/powershell---dynamic-parameters/</guid>
+      <guid>https://blog.fwendlandt.net/blog/powershell---dynamic-parameters/</guid>
       <description>Dynamic Parameters for your PowerShell Cmdlets One of the things I love about PowerShell is its great tab completion. Using tab completion often saves you a lot of hassle with typos you may overlook otherwise and in my opinion it eases the discoverability and understanding of many parameters greatly. Seeing possible values for a parameter often makes you understand what it will do before even looking into the documentation.</description>
     </item>
     
