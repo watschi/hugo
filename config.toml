@@ -1,4 +1,4 @@
-baseurl = "https://192.168.0.134/"
+baseurl = "https://blog.fwendlandt.net/"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
@@ -8,7 +8,7 @@ layoutdir = "layouts"
 publishdir = "public"
 author = "Fabian Wendlandt"
 title = "Fabian's Blog"
-disqusshortname = "watschi"
+disqusshortname = "fwendlandt"
 pluralizelisttitles = false
 
 [permalinks]
