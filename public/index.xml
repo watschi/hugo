@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabian&#39;s Blog</title>
+    <link>https://192.168.0.134/</link>
+    <description>Recent content on Fabian&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2017 Fabian Wendlandt</copyright>
+    <lastBuildDate>Thu, 27 Jul 2017 01:09:42 +0200</lastBuildDate>
+    
+	<atom:link href="https://192.168.0.134/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PowerShell - Dynamic Parameters</title>
+      <link>https://192.168.0.134/blog/powershell---dynamic-parameters/</link>
+      <pubDate>Thu, 27 Jul 2017 01:09:42 +0200</pubDate>
+      
+      <guid>https://192.168.0.134/blog/powershell---dynamic-parameters/</guid>
+      <description>Dynamic Parameters for your PowerShell Cmdlets One of the things I love about PowerShell is its great tab completion. Using tab completion often saves you a lot of hassle with typos you may overlook otherwise and in my opinion it eases the discoverability and understanding of many parameters greatly. Seeing possible values for a parameter often makes you understand what it will do before even looking into the documentation.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://192.168.0.134/about/</link>
+      <pubDate>Wed, 05 Jul 2017 20:23:41 +0200</pubDate>
+      
+      <guid>https://192.168.0.134/about/</guid>
+      <description>Hi !
+I&amp;rsquo;m Fabian, 21 years old, from Germany and in the middle of my apprenticeship as a sysadmin. Currently I&amp;rsquo;m dipping my toes into all the interesting technology that is out there right now, trying to find what is the most interesting and helpful thing I want to work with and develop my future career with.
+Since there is a lot to learn and it is easy to forget I want to write parts of it down here.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://192.168.0.134/home/</link>
+      <pubDate>Wed, 05 Jul 2017 20:07:26 +0200</pubDate>
+      
+      <guid>https://192.168.0.134/home/</guid>
+      <description>Hi ! Welcome to my first blog. I&amp;rsquo;m Fabian. I&amp;rsquo;m in the first year of my apprenticeship as a sysadmin. While trying to learn as much as I can I want to share some of it here.</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://192.168.0.134/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://192.168.0.134/license/</guid>
+      <description>The MIT License (MIT)
+Copyright &amp;copy; 2015 Nishanth Shanmugham nishanth.gerrard@gmail.com
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+    </item>
+    
+  </channel>
+</rss>
