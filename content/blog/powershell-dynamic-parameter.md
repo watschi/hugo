@@ -1,7 +1,7 @@
 ---
 title: "PowerShell - Dynamic Parameters"
 date: 2017-07-27T01:09:42+02:00
-draft: true
+draft: false
 ---
 
 # Dynamic Parameters for your PowerShell Cmdlets
