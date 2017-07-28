@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2017 Fabian Wendlandt</copyright>
+    <lastBuildDate>Thu, 27 Jul 2017 01:09:42 +0200</lastBuildDate>
     
 	<atom:link href="https://blog.fwendlandt.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Powershell</title>
+      <link>https://blog.fwendlandt.net/tags/powershell/</link>
+      <pubDate>Thu, 27 Jul 2017 01:09:42 +0200</pubDate>
+      
+      <guid>https://blog.fwendlandt.net/tags/powershell/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
