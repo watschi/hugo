@@ -27,6 +27,6 @@ progressively = false
 lang = "en"
 github = "watschi"
 email = "fabian-wendlandt@gmx.de"
-social_banner = "img/Foto.jpg"
+social_banner = "img/blog.png"
 posts_navigation = true
 share = true
