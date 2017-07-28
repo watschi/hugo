@@ -2,7 +2,7 @@
 title: "PowerShell - Dynamic Parameters"
 date: 2017-07-27T01:09:42+02:00
 description:  "Dynamic PowerShell Parameter for Cmdlets"
-meta_img:  "/img/blog.png"
+meta_img:  "img/blog.png"
 draft: false
 ---
 
