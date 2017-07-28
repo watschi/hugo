@@ -1,10 +1,12 @@
----
-title: "PowerShell - Dynamic Parameters"
-date: 2017-07-27T01:09:42+02:00
-description:  "Dynamic PowerShell Parameter for Cmdlets"
-meta_img:  "img/blog.png"
-draft: false
----
++++
+title = "PowerShell - Dynamic Parameters"
+description =  "Dynamic PowerShell Parameters for Cmdlets"
+author = "Fabian Wendlandt"
+date = 2017-07-27T01:09:42+02:00
+tags = ['PowerShell']
+meta_img =  "/img/blog.png"
+draft = false
++++
 
 # Dynamic Parameters for your PowerShell Cmdlets
 
