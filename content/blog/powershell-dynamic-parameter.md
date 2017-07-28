@@ -4,7 +4,7 @@ description =  "Dynamic PowerShell Parameters for Cmdlets"
 author = "Fabian Wendlandt"
 date = 2017-07-27T01:09:42+02:00
 tags = ['PowerShell']
-meta_img =  "/img/blog.png"
+meta_img =  "img/blog.png"
 draft = false
 +++
 
