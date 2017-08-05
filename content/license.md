@@ -2,6 +2,12 @@
 title= "License"
 +++
 
+**Content:**
+
+> This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+**Theme:**
+
 > The MIT License (MIT)
 >
 > Copyright (c) 2015 Nishanth Shanmugham <nishanth.gerrard@gmail.com>
@@ -24,6 +30,3 @@ title= "License"
 > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 > THE SOFTWARE.
 
-**Content:**
-
-> This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
