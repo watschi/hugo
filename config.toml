@@ -28,6 +28,7 @@ lang = "en"
 github = "watschi"
 email = "fabian-wendlandt@gmx.de"
 social_banner = "img/blog.png"
+usesmallsummarycard = true
 posts_navigation = true
 share = true
 twitter = "w4tschi"
